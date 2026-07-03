@@ -11,7 +11,7 @@ A modern promotional poster designed to advertise a café's **Iced Cold Coffee**
 - Call-to-action button
 
 ## Tools Used
-- Canva / Photoshop / Illustrator
+- Photoshop
 
 ## Creator
 Rasagna Moturi
